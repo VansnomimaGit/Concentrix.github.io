@@ -1,1 +1,60 @@
-# Concentrix.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Concentrix</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>
+            Welcome to Concentrix. This privacy policy explains how our app, Concentrix, handles your data and ensures your privacy.
+        </p>
+        <h2>Information Collection and Use</h2>
+        <p>
+            Concentrix does not collect any user data. We do not require an internet connection for our app to function, and no personal information is gathered or stored by us.
+        </p>
+        <h2>Use of Push Notifications</h2>
+        <p>
+            Concentrix uses push notifications solely for the purpose of enhancing user experience and engagement within the app. No personal information is collected or used for sending these notifications.
+        </p>
+        <h2>Security</h2>
+        <p>
+            We take your privacy seriously. Even though we do not collect any personal information, we ensure that our app is designed with security in mind to prevent any unauthorized access.
+        </p>
+        <h2>Changes to This Privacy Policy</h2>
+        <p>
+            We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately after they are posted on this page.
+        </p>
+        <h2>Contact Us</h2>
+        <p>
+            If you have any questions about this Privacy Policy, please contact us at: support@concentrixapp.com.
+        </p>
+    </div>
+</body>
+</html>
